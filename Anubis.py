@@ -130,7 +130,8 @@ class Widget(QWidget):
         # second editor in which the error messeges and succeeded connections will be shown
         global text2
         text2 = QTextEdit()
-        text2.setReadOnly(True)
+        #commented it to make tesxt2 editable
+        ##text2.setReadOnly(True)
         # defining a Treeview variable to use it in showing the directory included files
         self.treeview = QTreeView()
 
