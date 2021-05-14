@@ -1,4 +1,4 @@
-Trying to make the followng Reposirtroy https://github.com/a1h2med/Anubis-IDE to excuexcuute python code faster by allowing the user to inter a code for a single function that will be automatically wrapped inside a program which main function will call the function 
+Trying to make the followng Reposirtroy https://github.com/a1h2med/Anubis-IDE to excuete python code faster by allowing the user to inter a code for a single function that will be automatically wrapped inside a program which main function will call the function 
 it will also ask the user to provide a list of parameters to to pass from the main to the callled function
 
 
